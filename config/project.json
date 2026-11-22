@@ -1,0 +1,7 @@
+{
+  "crs": {"source": "EPSG:4326", "metric": "EPSG:32643"},
+  "tile_sizes_m": {"dense_urban": 1000, "urban": 2000, "rural": 5000},
+  "lod": {"LOD0": "terrain and major geography", "LOD1": "settlement masses", "LOD2": "roads and individual buildings", "LOD3": "facades and street assets"},
+  "data_policy": "Only source-backed locations are verified. Derived geometry must be labelled inferred.",
+  "render": {"preview_engine": "BLENDER_EEVEE", "texture_max_px": 1024}
+}

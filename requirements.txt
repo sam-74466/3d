@@ -1,0 +1,7 @@
+geopandas>=1.0
+osmnx>=2.0
+pyogrio>=0.10
+pyproj>=3.6
+requests>=2.32
+shapely>=2.0
+pytest>=8.0
